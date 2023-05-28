@@ -80,4 +80,4 @@ void display()
             printf("%d ", queue_array[i]);
         printf("\n");
     }
-} /* End of display() */
+} /* End of display()   */
